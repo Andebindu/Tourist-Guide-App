@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690873250700",
+    "project_id": "tourist-guide-c39e0",
+    "storage_bucket": "tourist-guide-c39e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690873250700:android:944db4c3c8e85d02741ca9",
+        "android_client_info": {
+          "package_name": "com.touristguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9fovmjoy0BfmHtjmwktT5X2ksaLgez98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
